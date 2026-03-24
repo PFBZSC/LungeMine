@@ -1,0 +1,10 @@
+{
+  "banzai": {
+    "subtitle": "sounds.lungemine.banzai",
+    "sounds": [
+      "lungemine:banzai01",
+      "lungemine:banzai02",
+      "lungemine:banzai03"
+    ]
+  }
+}

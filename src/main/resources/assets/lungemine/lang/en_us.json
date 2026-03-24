@@ -1,0 +1,11 @@
+{
+  "item.lungemine.lungemine": "Lunge Mine",
+  "lungemine.configuration.title": "Lunge Mine Configs",
+  "lungemine.configuration.section.lungemine.common.toml": "Lunge Mine Configs",
+  "lungemine.configuration.section.lungemine.common.toml.title": "Lunge Mine Configs",
+  "lungemine.configuration.items": "Item List",
+  "lungemine.configuration.logDirtBlock": "Log Dirt Block",
+  "lungemine.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lungemine.configuration.magicNumber": "Magic Number",
+  "death.attack.lungemine": "%1$s has finally walked the path of martial courage."
+}
